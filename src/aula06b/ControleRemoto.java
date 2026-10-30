@@ -1,9 +1,9 @@
 package aula06b;
 public class ControleRemoto implements Controles{
 
-    boolean statusLigado;
-    int volume;
-    Boolean statusPausado;
+    private boolean statusLigado;
+    private int volume;
+    private Boolean statusPausado;
 
 
     // METODO CONSTRUTOR
